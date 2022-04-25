@@ -1,5 +1,7 @@
 # vMagic
 
+<img src="mageicon.ong" alt="Mage Icon"/>
+
 Adiciona um sistema de Magia em seu servidor
 
 
